@@ -1,2 +1,23 @@
-# .config
-i tend to change a lot of stuff in my system so whatever you are seeing right now might not be what am currently using ,sorry about that
+## My dotfiles 
+![](https://i.imgur.com/c33V8f3.png)
+# Welcome
+Hello there! and welcome to my collection of rices feel free to take and use what ever you like, hope you enjoy! 
+
+# my current sys info  <br>
+Distro : artix <br>
+Shell : fish <br>
+kernel : Zen <br>
+init : runit <br>
+wm : bspwm 
+
+# Tokyo-night
+![](https://i.imgur.com/J80gRLt.png)
+
+# Snow-bridge
+![](https://i.imgur.com/EkRnJ7v.png)
+
+# The-neon-shallow
+![](https://i.imgur.com/HRBk357.png)
+
+# Noir-space 
+![](https://i.imgur.com/HazwPEU.png)
