@@ -10,14 +10,16 @@ kernel : Zen <br>
 init : runit <br>
 wm : bspwm 
 
-# Tokyo-night
-![](https://i.imgur.com/J80gRLt.png)
+# Noir-space 
+![](https://i.imgur.com/HazwPEU.png)
 
 # Snow-bridge
 ![](https://i.imgur.com/EkRnJ7v.png)
 
+# Tokyo-night
+![](https://i.imgur.com/J80gRLt.png)
+
 # The-neon-shallow
 ![](https://i.imgur.com/HRBk357.png)
 
-# Noir-space 
-![](https://i.imgur.com/HazwPEU.png)
+
