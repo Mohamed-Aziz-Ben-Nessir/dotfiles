@@ -3,7 +3,7 @@
 # Welcome
 Hello there! and welcome to my collection of rices feel free to take and use what ever you like, hope you enjoy! 
 
-# [mohamedaziz@guest ~]$ fetch  <br>
+# [mohamedaziz@sysinfo ~]$ fetch  <br>
 Distro : artix <br>
 Shell : fish <br>
 kernel : Zen <br>
