@@ -1,25 +1,29 @@
-## My dotfiles 
+## [mohamedaziz@sys ~]$ feh MyDotfiles.png
 ![](https://i.imgur.com/c33V8f3.png)
-# Welcome
-Hello there! and welcome to my collection of rices feel free to take and use what ever you like, hope you enjoy! 
+# [mohamedaziz@sys ~]$ cat Welcome.txt
+Hello there! and welcome to my collection of rices <br>
+I try to keep my designs as minimal and responsive as possible (I don't min a lot of keybinds) and I usually prefer dark themes.<br>
+I also try to keep them as optimized as possible for the max possible speed.
+feel free to take and use what ever you like, hope you enjoy! 
 
-# [mohamedaziz@sysinfo ~]$ fetch  <br>
-Distro : artix <br>
-Shell : fish <br>
-kernel : Zen <br>
-init : runit <br>
-wm : bspwm 
+# [mohamedaziz@sys ~]$ fetch-current-sys-info<br>
+**Distro** : artix <br>
+**Shell** : fish <br>
+**kernel** : Zen <br>
+**init** : runit <br>
+**wm** : bspwm 
 
-# Noir-space 
+# [mohamedaziz@sys ~]$ #My Collection list
+# [mohamedaziz@sys ~]$ feh Noir-space.png 
 ![](https://i.imgur.com/HazwPEU.png)
 
-# Snow-bridge
+# [mohamedaziz@sys ~]$ feh Snow-bridge.png
 ![](https://i.imgur.com/EkRnJ7v.png)
 
-# Tokyo-night
+# [mohamedaziz@sys ~]$ Tokyo-night.png
 ![](https://i.imgur.com/J80gRLt.png)
 
-# The-neon-shallow
+# [mohamedaziz@sys ~]$ The-neon-shallow.png
 ![](https://i.imgur.com/HRBk357.png)
 
 
