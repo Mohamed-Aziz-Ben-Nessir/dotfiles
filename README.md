@@ -23,10 +23,10 @@ feel free to take and use what ever you like, hope you enjoy!
 # [mohamedaziz@sys ~]$ feh Snow-bridge.png
 ![](https://i.imgur.com/EkRnJ7v.png)
 
-# [mohamedaziz@sys ~]$ Tokyo-night.png
+# [mohamedaziz@sys ~]$ feh Tokyo-night.png
 ![](https://i.imgur.com/J80gRLt.png)
 
-# [mohamedaziz@sys ~]$ The-neon-shallow.png
+# [mohamedaziz@sys ~]$ feh The-neon-shallow.png
 ![](https://i.imgur.com/HRBk357.png)
 
 # [mohamedaziz@sys ~]$ <img src="https://i.imgur.com/P3f8QBw.gif" height="35px">
