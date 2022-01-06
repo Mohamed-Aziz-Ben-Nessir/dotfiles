@@ -1,5 +1,3 @@
-# [mohamedaziz@sys ~]$ # Welcome!
-
 # [mohamedaziz@sys ~]$ feh MyDotfiles.png
 ![](https://i.imgur.com/c33V8f3.png)
 # [mohamedaziz@sys ~]$ cat Welcome.txt
@@ -29,4 +27,4 @@ feel free to take and use what ever you like, hope you enjoy!
 # [mohamedaziz@sys ~]$ feh The-neon-shallow.png
 ![](https://i.imgur.com/HRBk357.png)
 
-# [mohamedaziz@sys ~]$ <img src="https://i.imgur.com/P3f8QBw.gif" height="35px">
+# [mohamedaziz@sys ~]$ <img src="https://i.imgur.com/B8B5UdJ.gif" height="29px">
