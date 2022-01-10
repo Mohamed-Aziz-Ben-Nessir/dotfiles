@@ -1,5 +1,5 @@
 # [mohamedaziz@sys ~]$ feh MyDotfiles.png
-![](https://i.imgur.com/c33V8f3.png)
+![](https://i.imgur.com/W3VgcQd.jpg)
 # [mohamedaziz@sys ~]$ cat Welcome.txt
 Hello there! and welcome to my collection of rices!<br>
 I try to keep my designs as minimal and responsive as possible (I don't mind a lot of keybinds) and I usually prefer dark themes.<br>
