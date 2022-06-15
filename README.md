@@ -14,7 +14,7 @@ feel free to take and use what ever you like, hope you enjoy!
 **Wm/de** : bspwm <br>
 **editor** : Neovim 
 
-# [mohamedaziz@sys ~]$ #My Collection list
+# [mohamedaziz@sys ~]$ #My Collection
 # [mohamedaziz@sys ~]$ feh Noir-space.png 
 ![](https://i.imgur.com/HazwPEU.png)
 
