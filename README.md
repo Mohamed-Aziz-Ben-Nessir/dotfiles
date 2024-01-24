@@ -6,13 +6,13 @@ I try to keep my designs as minimal and responsive as possible (I don't mind a l
 I also try to keep them as optimized as possible for max possible speed.
 feel free to take and use what ever you like, hope you enjoy! 
 
-# [mohamedaziz@sys ~]$ ./fetch_current_sys_info.sh<br>
-**Distro** : Artix <br>
-**Shell** : fish <br>
+# [mohamedaziz@sys ~]$ ./fetch_fav_sys_info.sh<br>
+**Distro** : Arch Based / NixOS <br>
+**Shell** : fish with  <br>
 **Kernel** : Zen <br>
 **Init** : runit <br>
-**Wm/de** : bspwm <br>
-**editor** : Neovim 
+**Wm/de** : bspwm / hyperland <br>
+**editor** : Neovim / LunarVim 
 
 # [mohamedaziz@sys ~]$ #My Collection
 # [mohamedaziz@sys ~]$ feh Noir-space.png 
@@ -26,5 +26,8 @@ feel free to take and use what ever you like, hope you enjoy!
 
 # [mohamedaziz@sys ~]$ feh The-neon-shallow.png
 ![](https://i.imgur.com/HRBk357.png)
+
+# [mohamedaziz@sys ~]$ feh Negoto.png
+![](https://i.imgur.com/W9zPvc7.png)
 
 # [mohamedaziz@sys ~]$ <img src="https://i.imgur.com/B8B5UdJ.gif" height="29px">
