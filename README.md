@@ -15,6 +15,10 @@ feel free to take and use what ever you like, hope you enjoy!
 **editor** : Neovim / LunarVim 
 
 # [mohamedaziz@sys ~]$ #My Collection
+
+# [mohamedaziz@sys ~]$ feh Negoto.png
+![](https://i.imgur.com/W9zPvc7.png)
+
 # [mohamedaziz@sys ~]$ feh Noir-space.png 
 ![](https://i.imgur.com/HazwPEU.png)
 
@@ -26,8 +30,5 @@ feel free to take and use what ever you like, hope you enjoy!
 
 # [mohamedaziz@sys ~]$ feh The-neon-shallow.png
 ![](https://i.imgur.com/HRBk357.png)
-
-# [mohamedaziz@sys ~]$ feh Negoto.png
-![](https://i.imgur.com/W9zPvc7.png)
 
 # [mohamedaziz@sys ~]$ <img src="https://i.imgur.com/B8B5UdJ.gif" height="29px">
