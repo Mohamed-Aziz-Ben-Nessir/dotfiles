@@ -8,7 +8,7 @@ feel free to take and use what ever you like, hope you enjoy!
 
 # [mohamedaziz@sys ~]$ ./fetch_fav_sys_info.sh<br>
 **Distro** : Arch Based / NixOS <br>
-**Shell** : fish with  <br>
+**Shell** : fish with starship  <br>
 **Kernel** : Zen <br>
 **Init** : runit <br>
 **Wm/de** : bspwm / hyperland <br>
